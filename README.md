@@ -13,4 +13,3 @@ My interests include circuit QED, two-qubit gates and control, readout and param
 - [Silicon ring modulator](https://mukul-quantum-researcher.github.io/projects/ring-modulator/): optical and electrical modelling in Lumerical.
 
 [Research portfolio](https://mukul-quantum-researcher.github.io) · [CV](https://mukul-quantum-researcher.github.io/assets/documents/Mukul-CV.pdf) · [Email](mailto:malikmukul2000@gmail.com)
-
